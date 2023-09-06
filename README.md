@@ -1,4 +1,4 @@
-- 👋 Hi, welcome to @AIWhisperers, where we're building the future of AI for businesses of all sizes.
+- 👋 Welcome to @AIWhisperers, where we're building the future of AI for businesses of all sizes.
 
 - 👀 Our vision is to make AI accessible for both small and large businesses, democratizing its power to empower organizations across the globe.
 
